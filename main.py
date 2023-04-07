@@ -17,7 +17,6 @@ if __name__ == '__main__':
     ch.setStream(sys.stdout)
     logger.addHandler(ch)
 
-
     _logger.info("Starting agent")
     configuration = ConfigurationReader.read_config()
     domoticz_url = configuration['domoticz_url']
