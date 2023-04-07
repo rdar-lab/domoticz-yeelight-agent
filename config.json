@@ -1,0 +1,12 @@
+{
+  "domoticz_url": "",
+  "domoticz_user": "",
+  "domoticz_pass": "",
+  "devices": [
+    {
+      "domoticz_id": "",
+      "device_ip": ""
+    }
+  ],
+  "timeout_secs": 10
+}
